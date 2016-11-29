@@ -1,10 +1,10 @@
 name 'my-test-cookbook'
 maintainer 'The Authors'
 maintainer_email 'you@example.com'
-license 'all_rights'
+license ''
 description 'Installs/Configures my-test-cookbook'
 long_description 'Installs/Configures my-test-cookbook'
-version '0.1.0'
+version '0.2.0'
 
 # If you upload to Supermarket you should set this so your cookbook
 # gets a `View Issues` link
